@@ -1,5 +1,4 @@
-theme: jekyll-theme-hacker
+theme: minima
 url : "https://macarima.github.io"
 baseurl : ""
 title : "Genome_works"
-categories : Tab1 Tab2
